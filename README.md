@@ -1,20 +1,20 @@
 # Unit-Tests
 
-## Applcation.class
+## Application.class
 
 Java file that runs the application with Spring-Boot (@SpringBootApplication)
 
-# Employee.class
+## Employee.class
 
 Pojo
 
-# HomeController.class
+## HomeController.class
 
-RestController (@RestController) returns a JSON format represanting the Employee object.
+RestController (*@RestController*) returns a JSON format represanting the Employee object.
 
-@RequestMapping is an annotation that defines the address to runs the method. (Supports REST templates)
+*@RequestMapping* is an annotation that defines the address to runs the method. (Supports REST templates)
 
-# HomeTest.class
+## HomeTest.class
 
 This class show some methods whit annotations that defines the life cycle of tests with Junit.
 
